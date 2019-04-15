@@ -1,0 +1,21 @@
+sHAREPOINT lINK : https://teamtelstra.sharepoint.com/:x:/r/teams/GES14-221/ServiceOps/MSM/_layouts/15/doc2.aspx?sourcedoc=%7B5EE11D6E-3F81-43E8-B3C6-93CED5A0A5DB%7D&file=2018%20GTM
+
+%20Tracker%20%26%20Business%20Plan%20-%20v2%20Template.xlsx&action=default&mobileredirect=true&cid=fe662944-37a6-4ee0-b324-5481e4f4ab76
+
+
+
+Android Enterprise => https://www.youtube.com/watch?v=8nkJBkszu9I&feature=youtu.be
+
+Android Security => https://www.youtube.com/watch?v=d-xuECeJKjA&feature=youtu.be
+Android Security Report => https://lp.google-mkto.com/rs/248-TPC-286/images/Google_Android_Security_2016_Report_Final.pdf
+Google Play Security => https://lp.google-mkto.com/rs/248-TPC-286/images/Google%20Playstore%20Security%20White%20Paper.pdf
+Private App => https://lp.google-mkto.com/rs/248-TPC-286/images/Google%20Play%20Private%20App%20Publishing%20Guide.pdf
+EMM Ecosystem => https://www.youtube.com/watch?v=PLjJz1Y99qQ&feature=youtu.be
+Android Qualification => https://lp.google-mkto.com/rs/248-TPC-286/images/AndroidQualificationGuide.pdf
+Android Playbook => https://lp.google-mkto.com/rs/248-TPC-286/images/AndroidQualificationGuide.pdf
+
+
+
+Other userful ones
+
+Android Bootcamp Sydney 2017 => https://lp.google-mkto.com/2017-Android-Bootcamp_Links-LP.html
