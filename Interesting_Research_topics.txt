@@ -12,3 +12,31 @@ Botconf: Hunting Droids From The Inside
 Wired: Some Thoughts on “Emerging Threats”
 Trustech 2016: Making the Android ecosystem safer
 Google I/O: What’s New in Android security
+
+
+Android Enterprise Technologies
+---------------------------------
+=> Verified Boot
+=> Google Mobile Services (GMS)
+=> Google Safe Browsing
+=> SafetyNet Attestation
+=> WAP Protocol
+=> SELinux
+=> App Sandboxing
+=> Anomaly Correlation Engine (ACE)
+=> System Integrity Check 
+=> Keystore
+=> Android Compatability Testing 
+
+Android Malwares
+------------------
+=> HummingBad
+=> GhostPush
+=> Gooligan
+=> Chamois
+=> WallySMS
+=> Turkish Clicker
+=> DressCode
+=> Godless
+=> Kingroot
+=> Quardrooter
