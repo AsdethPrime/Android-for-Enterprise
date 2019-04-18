@@ -1,0 +1,14 @@
+Conference Presentation
+-------------------------
+Linux Security Summit: Android: Protecting the Kernel
+Blackhat: The Art of Defense: How Vulnerabilities Shape Security Features and Mitigations in Android
+Virus Bulletin: Android Security Small Talk
+Qualcomm Security Summit: Overcoming Stagefright—Integer Overflow Protections in Android
+Qualcomm Security Summit: Rooting for fun and profit
+Kapersky Security Analysts Summit: Protecting Android users against harmful apps
+Samsung Dev Conference: Developing secure Android for Work apps
+RSA conference: Building an Android Scale Incident Response Process
+Botconf: Hunting Droids From The Inside
+Wired: Some Thoughts on “Emerging Threats”
+Trustech 2016: Making the Android ecosystem safer
+Google I/O: What’s New in Android security
